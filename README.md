@@ -8,7 +8,7 @@ Very simply explained it uses the discretization used for time series in PySAX a
 The algorithm then uses the compression to calculate a score of the compressibility of each point in the time-series. If the compressibility of a sequence of points is low for a certain sequence then an anomaly  is detected.
 
 ## Data
-The data used to run the algorithm is noise website activity data.
+The data used to run the algorithm is noisy website activity data.
 
 ## References
 See PDF
